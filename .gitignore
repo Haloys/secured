@@ -1,0 +1,11 @@
+secured
+
+.gitignore~
+
+libmy.a
+*.o
+
+*.gcda
+*.gcno
+
+test_hash
